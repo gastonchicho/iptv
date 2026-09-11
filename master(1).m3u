@@ -14,7 +14,7 @@ https://edge6-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJl
 
 #EXTINF:-1 tvg-id="TelefeHD.ar" tvg-name="Telefe HD" tvg-country="" tvg-logo="https://i.ibb.co/khDLhB7/telefe.png" group-title="Argentina", Telefe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"adCK15UJL8WdvfsZRCTdkg","kid":"pzlItE6Sku7eUMDGVDAYYA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"adCK15UJL8WdvfsZRCTdkg","k":"pzlItE6Sku7eUMDGVDAYYA"}],"type":"temporary"}
 https://edge6-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjY2NDMxIiwic2lwIjoiMTkwLjE3Mi4xNjguMjM1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjY4NjQ4YTUyYzU3ZTAzNTEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjE5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.5De3Rh_reMOg9d6g8eiYfB0AsQiAHOOZ99ww7yDLBbfvY7HFEPpcUwp9l9Vauq639VaKVKJOwCFgEzYElM7jUg==/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar"
 
 #EXTINF:-1 tvg-id="ElTreceHD.ar" tvg-name="El Trece HD" tvg-country="" tvg-logo="https://i.ibb.co/M5cPG6y/eltrece.png" group-title="Argentina", El Trece
