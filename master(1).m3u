@@ -24,12 +24,12 @@ https://edge6-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJl
 
 #EXTINF:-1  tvg-id="EL TRECE.cl" tvg-logo="https://i.ibb.co/0qTfhWG/eltrece-internacional.png" group-title="Argentina", El Trece Internacional
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5bd469f8bf268d5d148c3971c7c23fca:9af98080d22846fdf2988b8ba9ec4add
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xfe0kaGRBIkxqq8DFFWLxw","k":"ZHdSK0NMrSAgtftNBVcgsA"}],"type":"temporary"}
 https://edge6-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjY2NDMxIiwic2lwIjoiMTkwLjE3Mi4xNjguMjM1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjY4NjQ4YTUyYzU3ZTAzNTEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjE5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.5De3Rh_reMOg9d6g8eiYfB0AsQiAHOOZ99ww7yDLBbfvY7HFEPpcUwp9l9Vauq639VaKVKJOwCFgEzYElM7jUg==/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar"
 
 #EXTINF:-1 group-title="Argentina" tvg-id="TelefeInternacional.ar.uy", tvg-logo="https://i.ibb.co/Xk2ZFyC/telefe-internacional.png", Telefé INTERNACIONAL 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Kj_V4MU-qyp_8Z4QGIjD-w","k":"4WyzErgKBjqzRr3Iuvk0ZA"}],"type":"temporary"}
 https://edge6-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjY2NDMxIiwic2lwIjoiMTkwLjE3Mi4xNjguMjM1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjY4NjQ4YTUyYzU3ZTAzNTEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjE5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.5De3Rh_reMOg9d6g8eiYfB0AsQiAHOOZ99ww7yDLBbfvY7HFEPpcUwp9l9Vauq639VaKVKJOwCFgEzYElM7jUg==/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar"
 
 #EXTINF:-1 tvg-id="ElNueveHD.ar" tvg-name="El Nueve HD" tvg-country="" tvg-logo="https://i.ibb.co/G9rcdWc/elnueve.png" group-title="Argentina", El Nueve
