@@ -483,7 +483,10 @@ http://38.123.205.130:8088/hls/chuy/adrenalina.m3u8
 *https://linear-556.frequency.stream/mt/studio/556/hls/master/playlist.m3u8
 
 
-
+#EXTINF:-1 ch-number="121" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/dsports2-lam.png" group-title="Deportes" stream-index="0",DSports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"M4SMJio8yMDrizTNuWkfBA","k":"_Y5SrXRc7J5iJjkooQ86vQ"}],"type":"temporary"}
+https://edge-live07-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTcyNzM0Iiwic2lwIjoiMTkwLjE3Mi4xODYuMTAyIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImNlMjhiNTg0YzAyM2ZkNTEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzExIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.EfPyITWjooJpgHI-EnFfxLQuwM5dMge6bXhiBJW5Xasbbk_3SGSq7kgRNSXOJyCQPtaq4FUbyeoBUejT4asAcQ==/live/c3eds/DSports_2/SA_Live_dash_enc/DSports_2.mpd?|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
 
 
 
