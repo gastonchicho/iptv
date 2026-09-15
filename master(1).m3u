@@ -361,7 +361,7 @@ https://edge-live07-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"UFYWOA3nBpNuST_dHCXQtg","k":"WzE_ScY8aCI26rM1dADiFg"}],"type":"temporary"}
 https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
 
-#EXTINF:-1 ch-number="124" tvg-id="PXSports.mx" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1811/CH_LOGO/60/60/0/0/70671934073582.png" group-title="Deportes" stream-index="0",PX Sports
+#EXTINF:-1 ch-number="124" tvg-id="PXSports.mx" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1811/CH_LOGO/60/60/0/0/70671934073582.png" group-title="Deportes", PX Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"YZc-L2uBZXhitkX-KjRBag","k":"J4bFtm0Fz28aQrjCcEUzGQ"}],"type":"temporary"}
 https://edge-live07-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTcyNzM0Iiwic2lwIjoiMTkwLjE3Mi4xODYuMTAyIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImNlMjhiNTg0YzAyM2ZkNTEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzExIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.EfPyITWjooJpgHI-EnFfxLQuwM5dMge6bXhiBJW5Xasbbk_3SGSq7kgRNSXOJyCQPtaq4FUbyeoBUejT4asAcQ==/live/c7eds/PX_Sports/SA_Live_dash_enc/PX_Sports.mpd?|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
