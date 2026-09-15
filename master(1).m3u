@@ -268,32 +268,32 @@ https://edge-live07-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="El Garage TV" tvg-country="" tvg-logo="https://i.ibb.co/yXhDv0Y/elgarage.png" group-title="Deportes", El Garage TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CNg2YNtKc7sdYdYLCd9fTQ","kid":"A9HfuN8DTYuB5XdT3wCjbQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"o-qcuzTn9Nv2FWpo-RPW1w","k":"HAD0M85ILiuHZqagIGNJRw"}],"type":"temporary"}
 https://edge-live07-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTcyNzM0Iiwic2lwIjoiMTkwLjE3Mi4xODYuMTAyIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImNlMjhiNTg0YzAyM2ZkNTEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzExIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.EfPyITWjooJpgHI-EnFfxLQuwM5dMge6bXhiBJW5Xasbbk_3SGSq7kgRNSXOJyCQPtaq4FUbyeoBUejT4asAcQ==/live/c6eds/El_Garage/SA_Live_dash_enc/El_Garage.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar"
 
 #EXTINF:-1 tvg-id="AmericaSports.ar" tvg-name="America Sports" tvg-country="" tvg-logo="https://i.ibb.co/ZGYDwhp/americasports.png" group-title="Deportes", America Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/uD4egUnSXNR/FTONq0d4g","kid":"oKoBM3ohSL2h4hhiKVrgNw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"MmlTb-3GnLoeAoH_YsxOuQ","k":"Ukbu305683cfgImdtmfe3g"}],"type":"temporary"}
 https://edge-live07-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTcyNzM0Iiwic2lwIjoiMTkwLjE3Mi4xODYuMTAyIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImNlMjhiNTg0YzAyM2ZkNTEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzExIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.EfPyITWjooJpgHI-EnFfxLQuwM5dMge6bXhiBJW5Xasbbk_3SGSq7kgRNSXOJyCQPtaq4FUbyeoBUejT4asAcQ==/live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar"
 
 #EXTINF:-1 tvg-id="DeporTVHD.ar" tvg-name="DeporTV HD" tvg-country="" tvg-logo="https://i.ibb.co/7YDxN5C/deportv.png" group-title="Deportes", DeporTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"82IJeBWJKkuDlQ8dEG/wsg","k":"Q0nkLoHDGoOJ9KQvzSmJKA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"5yHN-QQ-5WIpYAUFaidX3g","k":"cCWcnYJ5BegIjN7c61auhw"}],"type":"temporary"}
 https://edge-live07-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTcyNzM0Iiwic2lwIjoiMTkwLjE3Mi4xODYuMTAyIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImNlMjhiNTg0YzAyM2ZkNTEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzExIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.EfPyITWjooJpgHI-EnFfxLQuwM5dMge6bXhiBJW5Xasbbk_3SGSq7kgRNSXOJyCQPtaq4FUbyeoBUejT4asAcQ==/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar"
 
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-name="Discovery Turbo Panregional" tvg-country="" tvg-logo="https://i.ibb.co/bWzy5K6/disturbo.png" group-title="Deportes", Discovery Turbo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"phHdv4wV+mF6DDkct7PhKA","k":"DNEwC6+IkDgP1BEkliGVxA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"D1Xsxkhryun9P1MnH8Fq2A","k":"7rffWWn8WLV3Hy87x1Aq1Q"}],"type":"temporary"}
 https://edge-live07-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTcyNzM0Iiwic2lwIjoiMTkwLjE3Mi4xODYuMTAyIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImNlMjhiNTg0YzAyM2ZkNTEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzExIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.EfPyITWjooJpgHI-EnFfxLQuwM5dMge6bXhiBJW5Xasbbk_3SGSq7kgRNSXOJyCQPtaq4FUbyeoBUejT4asAcQ==/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar"
 
 #EXTINF:-1 tvg-id="GolfChannelHDLatinAmerica.us" tvg-name="Golf Channel HD Latin America" tvg-country="" tvg-logo="https://i.ibb.co/njN7zTP/golfchannel.png" group-title="Deportes", Golf Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JPDvK/eHZHzALfhwQX7tKw","kid":"ONYia3zSz6hrS5zapFXn1w"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"_dM3KW5D5prv7hu8TwTmYw","k":"2YgxZ9eIJ6DsJNrpngOj4g"}],"type":"temporary"}
 https://edge-live07-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTcyNzM0Iiwic2lwIjoiMTkwLjE3Mi4xODYuMTAyIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImNlMjhiNTg0YzAyM2ZkNTEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzExIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.EfPyITWjooJpgHI-EnFfxLQuwM5dMge6bXhiBJW5Xasbbk_3SGSq7kgRNSXOJyCQPtaq4FUbyeoBUejT4asAcQ==/live/c6eds/Golfhannel/SA_Live_dash_enc/Golfhannel.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar"
 
 #EXTINF:-1 tvg-id="TyCSportsHD.ar" tvg-name="TyC Sports HD" tvg-country="" tvg-logo="https://i.ibb.co/zb5C64b/tycsports.png" group-title="Deportes", TyC Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"KyHI-poynM4xGkxKSqmWoQ","k":"zCPqH7MmKfnh9IyN7q4-Ww"}]}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Cx5oJTUPobwAMvjzYofgBg","k":"EfxUCkU50Y-RzUA6XtQihA"}],"type":"temporary"}
 https://edge-live07-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTcyNzM0Iiwic2lwIjoiMTkwLjE3Mi4xODYuMTAyIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImNlMjhiNTg0YzAyM2ZkNTEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzExIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.EfPyITWjooJpgHI-EnFfxLQuwM5dMge6bXhiBJW5Xasbbk_3SGSq7kgRNSXOJyCQPtaq4FUbyeoBUejT4asAcQ==/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.ibb.co/zb5C64b/tycsports.png" group-title="Deportes", TyC Sports Internacional 
