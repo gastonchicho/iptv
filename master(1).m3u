@@ -251,7 +251,7 @@ https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dashld/ZooMoo.mpd|Referer="https
 https://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dashld/CanalInfantil.mpd|Referer="https://player.sensa.com.ar/"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.ElCanaldelPayasoPlimPlim(2023-).png.86c6cbf2fc741312e0c244f84eec14e6.png" group-title="Infantil", Plim Plim TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"WzTsW-mn05Tl9JpepVrE9g","k":"PozKb5RaOkyZhK5SjCQHuQ"}],"type":"temporary"}
 https://edge-live07-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTcyNzM0Iiwic2lwIjoiMTkwLjE3Mi4xODYuMTAyIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImNlMjhiNTg0YzAyM2ZkNTEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzExIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.EfPyITWjooJpgHI-EnFfxLQuwM5dMge6bXhiBJW5Xasbbk_3SGSq7kgRNSXOJyCQPtaq4FUbyeoBUejT4asAcQ==/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar"
 
