@@ -329,7 +329,7 @@ https://edge-live11-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-5-lam.png" group-title="Deportes", ESPN 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z2Jt48rdm_rwuFwGqv0s0A","k":"vCqn2eY1Tkl57mKw7FWVxQ"}],"type":"temporary"}
-https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar"
+https://edge-live11-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwMDQ4ODk4Iiwic2lwIjoiMTkwLjE3Mi4xNDguMTg2IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjVmYzI0NDE0YzgxMDIxZTAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiODciLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.uKR2a-rosmsBXNUX9tiwlVp2911cYc7h3iDRjjtJN1tLrJHhSeZY7XXsvFvVdR3-dhxVAOZvLxawQrUvmA6k2w==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://televvd.com/wp-content/uploads/2024/02/TODOS_2024_ESPN-6.png" group-title="Deportes", ESPN 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
