@@ -403,7 +403,7 @@ https://edge-live11-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 
 #EXTINF:-1 tvg-id="TNTSportsHDArgentina.ar" tvg-name="" tvg-country="" tvg-logo="https://i.ibb.co/5sfgtHX/tntsports.png" group-title="Deportes", TNT Sports (FLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vID6PaaW5QP5QP3l9oGhxQ","k":"6kbk6fETLo3XH7d_fVUFig"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"n7VjAbx2h7rwsaYd75oAeg","k":"lH0ilLpnJWgn6Ol_Jn5x4A"}],"type":"temporary"}
 https://edge-live11-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwMDQ4ODk4Iiwic2lwIjoiMTkwLjE3Mi4xNDguMTg2IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjVmYzI0NDE0YzgxMDIxZTAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiODciLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.uKR2a-rosmsBXNUX9tiwlVp2911cYc7h3iDRjjtJN1tLrJHhSeZY7XXsvFvVdR3-dhxVAOZvLxawQrUvmA6k2w==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar"
 
 #EXTINF:-1 tvg-id="TNTSportsHDArgentina.ar" tvg-name="" tvg-country="" tvg-logo="https://i.ibb.co/5sfgtHX/tntsports.png" group-title="Deportes", TNT Sports (Sensa) (Opcion 2)
